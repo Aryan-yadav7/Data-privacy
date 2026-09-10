@@ -1,0 +1,69 @@
+Practical 1: Data Privacy Audit of Instagram
+Aim
+
+To conduct a data privacy audit of the Instagram platform and identify how user data is collected, used, stored, shared, and protected.
+
+Website Selected
+Organization: Instagram (Meta Platforms)
+Website: Instagram
+Privacy Policy: Meta Privacy Policy / Instagram Privacy Information
+Requirements
+Internet connection
+Web browser
+Instagram account (optional)
+Procedure
+Visit the Instagram website.
+Open the Instagram/Meta Privacy Policy.
+Identify the types of personal information collected.
+Check how the collected information is used.
+Examine cookies and tracking technologies.
+Check third-party services and data sharing.
+Examine available privacy and security controls.
+Identify possible privacy risks.
+Suggest measures to improve privacy.
+Observations:-
+Privacy Aspect	Observation	Risk
+Data Collection	Instagram/Meta may collect information such as profile details, posts, messages, device information, IP address, location-related information, activity and interaction data.	High
+Data Usage	Data is used to provide and improve services, personalize content, recommend accounts/content and provide advertising.	Medium
+Cookies	Cookies and similar technologies are used for functionality, analytics, security and advertising purposes.	Medium
+Third-party Services	Information may be received from or shared with partners, service providers and other third parties for various business and service purposes.	Medium
+Profile Visibility	Public profile information and content may be visible to other Instagram users depending on account and privacy settings.	Medium
+Advertising & Tracking	Information about activity on Meta products and information received from partners may be used to personalize advertisements.	High
+Security	Meta states that it uses measures designed to protect information and provides security and privacy tools for users.	Low
+Data Control	Users can access, manage, download or delete personal information and use tools such as Privacy Checkup and Accounts Center.	Low
+
+These observations are based on Meta's published privacy information and privacy tools. {"fallbackMarkdown":"(Facebook
+)","reference":{"matched_text":"","prefix":null,"start_idx":2720,"end_idx":2752,"safe_urls":["https://www.facebook.com/privacy/policies/uso/","https://www.facebook.com/privacy/policies/uso/?utm_source=chatgpt.com","https://www.meta.com/actions/protecting-privacy-and-security/","https://www.meta.com/actions/protecting-privacy-and-security/?utm_source=chatgpt.com"],"refs":[],"alt":"(Facebook
+)","prompt_text":null,"type":"grouped_webpages","error":null,"status":"done","items":[{"title":"Meta United States Regional Privacy Notice | Privacy Center | Manage your privacy on Facebook, Instagram and Messenger | Facebook Privacy","url":"https://www.facebook.com/privacy/policies/uso/?utm_source=chatgpt.com","attribution":"Facebook","pub_date":1747958400,"snippet":"","attribution_segments":null,"supporting_websites":[{"title":"Privacy Tools and Information Security | Meta","url":"https://www.meta.com/actions/protecting-privacy-and-security/?utm_source=chatgpt.com","pub_date":null,"snippet":"","attribution":"Meta"}],"refs":[{"turn_index":1,"ref_type":"search","ref_index":0},{"turn_index":1,"ref_type":"search","ref_index":5}],"hue":null,"attributions":null}],"fallback_items":null,"style":null},"showLoginRequiredCard":false}
+
+Privacy Risks Identified
+Large amounts of personal and behavioral information may be collected through Instagram and related Meta services.
+Photos, videos, comments, messages and other content may contain sensitive personal information.
+Cookies and similar technologies can be used for analytics, functionality and advertising.
+Information from partners and third parties may contribute to personalization and advertising.
+Public profiles and posts can expose personal information to other users.
+Device and location-related information can provide additional information about a user's activities.
+Data may be processed or transferred across different countries and locations. {"fallbackMarkdown":"(Facebook
+)","reference":{"matched_text":"","prefix":null,"start_idx":3451,"end_idx":3483,"safe_urls":["https://archive.fo/2023.11.13-091021/https%3A/www.facebook.com/privacy/policy","https://archive.fo/2023.11.13-091021/https%3A/www.facebook.com/privacy/policy?utm_source=chatgpt.com","https://www.facebook.com/privacy/policies/uso/","https://www.facebook.com/privacy/policies/uso/?utm_source=chatgpt.com"],"refs":[],"alt":"(Facebook
+)","prompt_text":null,"type":"grouped_webpages","error":null,"status":"done","items":[{"title":"Meta United States Regional Privacy Notice | Privacy Center | Manage your privacy on Facebook, Instagram and Messenger | Facebook Privacy","url":"https://www.facebook.com/privacy/policies/uso/?utm_source=chatgpt.com","attribution":"Facebook","pub_date":1747958400,"snippet":"","attribution_segments":null,"supporting_websites":[{"title":"Meta Privacy Policy - How Meta collects and uses user data | Privacy Center | Manage your privacy on Facebook, Instagram and Messenger | Facebook Privacy","url":"https://archive.fo/2023.11.13-091021/https%3A/www.facebook.com/privacy/policy?utm_source=chatgpt.com","pub_date":null,"snippet":"","attribution":"Archive.fo"}],"refs":[{"turn_index":1,"ref_type":"search","ref_index":0},{"turn_index":1,"ref_type":"search","ref_index":2}],"hue":null,"attributions":null}],"fallback_items":null,"style":null},"showLoginRequiredCard":false}
+Recommendations
+Users should avoid sharing unnecessary personal or sensitive information on public profiles.
+Set the Instagram account to private when appropriate.
+Review who can see posts, stories, messages and other profile information.
+Review advertising and privacy settings regularly.
+Limit unnecessary app permissions, especially location, camera and microphone access.
+Review connected accounts and third-party services.
+Use strong passwords and enable two-factor authentication.
+Use Instagram's Privacy Checkup, Accounts Center and available data-management tools.
+Review the Privacy Policy before using new Instagram features or connected services. {"fallbackMarkdown":"(Meta
+)","reference":{"matched_text":"","prefix":null,"start_idx":4166,"end_idx":4185,"safe_urls":["https://www.meta.com/actions/protecting-privacy-and-security/","https://www.meta.com/actions/protecting-privacy-and-security/?utm_source=chatgpt.com"],"refs":[],"alt":"(Meta
+)","prompt_text":null,"type":"grouped_webpages","error":null,"status":"done","items":[{"title":"Privacy Tools and Information Security | Meta","url":"https://www.meta.com/actions/protecting-privacy-and-security/?utm_source=chatgpt.com","attribution":"Meta","pub_date":null,"snippet":"","attribution_segments":null,"supporting_websites":[],"refs":[{"turn_index":1,"ref_type":"search","ref_index":5}],"hue":null,"attributions":null}],"fallback_items":null,"style":null},"showLoginRequiredCard":false}
+Result
+
+The Data Privacy Audit of Instagram was successfully performed. The audit identified Instagram's data collection practices, data usage, cookies and tracking technologies, third-party information sharing, privacy controls and potential privacy risks.
+
+Conclusion
+
+Instagram provides privacy settings and tools that allow users to manage aspects of their personal information, account visibility and security. However, the platform processes a significant amount of user, device and activity-related information for providing services, personalization, analytics and advertising. Therefore, users should carefully manage their privacy settings, limit unnecessary permissions, avoid sharing sensitive information publicly and regularly review their Instagram and Meta privacy controls.
+:::{"fallbackMarkdown":"","reference":{"matched_text":" ","prefix":null,"start_idx":4989,"end_idx":4989,"safe_urls":[],"refs":[],"alt":"","prompt_text":null,"type":"sources_footnote","sources":[{"title":"Meta United States Regional Privacy Notice | Privacy Center | Manage your privacy on Facebook, Instagram and Messenger | Facebook Privacy","url":"https://www.facebook.com/privacy/policies/uso/?utm_source=chatgpt.com","attribution":"Facebook"},{"title":"Privacy Tools and Information Security | Meta","url":"https://www.meta.com/actions/protecting-privacy-and-security/?utm_source=chatgpt.com","attribution":"Meta"}],"has_images":false},"showLoginRequiredCard":false}
+

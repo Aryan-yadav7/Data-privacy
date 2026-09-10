@@ -1,4 +1,4 @@
-# Practical 2: Privacy Impact Assessment (PIA) of Instagram
+# Practical 3: Privacy Impact Assessment (PIA) of Instagram
 
 ## Aim
 

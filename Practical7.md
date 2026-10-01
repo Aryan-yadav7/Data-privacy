@@ -1,6 +1,3 @@
-Yes. For this practical, it is better to focus on **theory and evaluation** rather than actually configuring or using the technologies. Here is a README-style practical matching the format of your previous two.
-
-
 # Practical 7: Evaluation of Privacy-Enhancing Technologies (PETs)
 
 ## Aim
